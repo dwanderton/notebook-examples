@@ -1,3 +1,5 @@
+config
 jupyter
 requests[security]
 beautifulsoup4
+mediacloud
